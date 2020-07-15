@@ -2,6 +2,8 @@
 
 I'm Johannes Losch, a mostly backend dev in [Java, check it out](https://github.com/johanneslosch?tab=repositories&q=&type=&language=java). I also worked with other languages like [C++ (at school)](https://github.com/johanneslosch?tab=repositories&q=&type=&language=c%2B%2B) and [C# mostly at school](https://github.com/johanneslosch?tab=repositories&q=&type=&language=c%23). 
 
+![johanneslosch' github stats](https://github-readme-stats.vercel.app/api?username=johanneslosch&show_icons=true)
+
 ## Skills
 ### my personal Skills
  - problem solving
