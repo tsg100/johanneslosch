@@ -31,5 +31,6 @@ I'm Johannes Losch, a mostly backend dev in [Java, check it out](https://github.
  - [email](mailto:hi@jlosch.de)
  - [Twitter DM](https://twitter.com/johanneslosch)
  - [LinkedIn](https://www.linkedin.com/in/johannes-losch/)
+ - [Blog](https://johanneslosch.de)
 
  - [other](https://jlosch.de)
