@@ -10,7 +10,7 @@ I'm Johannes Losch, a mostly backend dev in [Java, check it out](https://github.
  | teamwork | databases |javascript / nodejs | advertising |
  | focused on facts | knowledge in Ubuntu/Debian, Windows and MacOS | C# | HR management |
  | enthusiast | some networking knowledge | C++ |accounting |
- | organizized |  | SQL |photography |
+ | organized |  | SQL |photography |
  | critical thinking |  |  | social media |
 
 
